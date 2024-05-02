@@ -11,7 +11,6 @@ Feel free to reach out to me via social sites. I'm always excited to engage with
 <div>
     <a href="https://www.linkedin.com/in/jtstroup" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;
     <a href="https://calendly.com/jtstroup/chat" target="_blank">Calendly</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.buymeacoffee.com/jtstroup" target="_blank">Buy Me a Coffee</a>&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Portfolio Contents
