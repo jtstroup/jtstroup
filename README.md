@@ -7,7 +7,7 @@ Welcome! Thanks for stopping by! I am an avid learner, passionate programmer, AI
 ## How to Reach Me
 
 - [LinkedIn](https://linkedin.com/in/jtstroup)
-- [Calendly](https://calendly.com/jtsroup)
+- [Calendly](https://calendly.com/jtstroup)
 
 ## Portfolio Contents
 
