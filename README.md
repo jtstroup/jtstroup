@@ -6,7 +6,8 @@ Welcome! Thanks for stopping by! I am an avid learner, passionate programmer, AI
 
 ## How to Reach Me
 
-Feel free to reach out to me via social sites. I'm always excited to engage with fellow enthusiasts, collaborate on projects, and share ideas.
+- [LinkedIn](https://linkedin.com/in/jtstroup)
+- [Calendly](https://calendly.com/jtsroup)
 
 ## Portfolio Contents
 
