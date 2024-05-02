@@ -8,11 +8,6 @@ Welcome! Thanks for stopping by! I am an avid learner, passionate programmer, AI
 
 Feel free to reach out to me via social sites. I'm always excited to engage with fellow enthusiasts, collaborate on projects, and share ideas.
 
-<div>
-    <a href="https://www.linkedin.com/in/jtstroup" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://calendly.com/jtstroup/chat" target="_blank">Calendly</a>&nbsp;&nbsp;&nbsp;
-</div>
-
 ## Portfolio Contents
 
 Explore the following categories to access curated resources, tutorials, and projects on various topics in AI, machine learning, and data science:
