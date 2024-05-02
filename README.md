@@ -1,4 +1,4 @@
-# Welcome to Joshua Stroup's Learning Hub!
+## 👋 Hello, I'm Joshua Stroup
 
 ## Introduction
 
