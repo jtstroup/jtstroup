@@ -44,9 +44,9 @@ Explore the following categories to access curated resources, tutorials, and pro
 | --- | --- | --- |
 | Next-Generation Neural Networks: Exploring Capsule Networks | Understand the fundamentals and potential of capsule networks over traditional neural architectures. | [:link:](#) |
 | Guide to Advanced ChatGPT | Let's dive into the APIs, Penalties, Temperature, and more | [:link:](#)
-| Logistic Regression | | [:link:](#) |
-| Weighted Averages | | [:link:](#) |
-| Annealing in Python | | [:link:](#) |
+| Logistic Regression | | 
+| Weighted Averages   | | 
+| Annealing in Python | | 
 
 
 ---
