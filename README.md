@@ -31,90 +31,92 @@ Explore the following categories to access curated resources, tutorials, and pro
 ---
 
 ### Foundations of AI and Machine Learning
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Advanced Topics in Artificial Intelligence
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Practical Applications of Natural Language Processing
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Computer Vision Techniques and Applications
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Machine Learning for Predictive Analytics
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Data Science for Business Insights
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Ethics and Responsible AI
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Education and Lifelong Learning
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+| MOOCs and Open Education in the Global South: Challenges, Successes, and Opportunities | "Chapter 26 - Imlementing a Skills Accelerator to Prepare Students in Kenya | [:link:] (https://www.amazon.com/gp/product/B07V8JZZ89/ref=dbs_a_def_rwt_bibl_vppi_i2#detailBullets_feature_div)
 ---
 
 ### Infrastructure and Deployment
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Social Good and Sustainability
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Leadership
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+| The Keys to Unlocking Your Professional Potential | Technical skills are secondary compared to four essentials skills to be a professional | [:link:] (https://www.linkedin.com/pulse/keys-unlocking-your-professional-potential-learneredu/?trackingId=24tsiABnWwk%2Bsk%2FIdWh3zQ%3D%3D)
+| Unveiling the Essence of Experience: A Journey Through Knowledge and Wisdom | Technical mastery, strategic vision, and the ability to anticipate technological trends are crucial for shaping and leading successful teams. | [:link:] (https://www.amazon.com/gp/product/B07V8JZZ89/ref=dbs_a_def_rwt_bibl_vppi_i2#detailBullets_feature_div)
+
 ---
 
 ### Insights from Talks
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 
 ---
 
 ### Creating a Career
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 
 ### Case Studies
-| Title | Article | Link |
+| Title | Description | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](link) |
+
 ---
 <!--
-| Placeholder | [:link:](article_link) | [:link:](github_link) |
+| Placeholder | Description | [:link:](github) |
 <a name=" "></a>
 -->
