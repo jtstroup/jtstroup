@@ -31,63 +31,88 @@ Explore the following categories to access curated resources, tutorials, and pro
 ---
 
 ### Foundations of AI and Machine Learning
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Advanced Topics in Artificial Intelligence
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Practical Applications of Natural Language Processing
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Computer Vision Techniques and Applications
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Machine Learning for Predictive Analytics
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Data Science for Business Insights
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Ethics and Responsible AI
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Education and Lifelong Learning
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Infrastructure and Deployment
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Social Good and Sustainability
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Leadership
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Insights from Talks
-| Title | Article | Repo |
+| Title | Article | Link |
 | --- | --- | --- |
-| Placeholder | [:link:](article_link) | [:link:](github_link) |
-<a name="create-a-career"></a>
+| Placeholder | [:link:](article_link) | [:link:](link) |
 
 ---
 
 ### Creating a Career
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 
 ### Case Studies
-
+| Title | Article | Link |
+| --- | --- | --- |
+| Placeholder | [:link:](article_link) | [:link:](link) |
 ---
 <!--
 | Placeholder | [:link:](article_link) | [:link:](github_link) |
