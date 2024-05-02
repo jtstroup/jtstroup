@@ -35,6 +35,7 @@ Explore the following categories to access curated resources, tutorials, and pro
 | --- | --- | --- |
 | Demystifying Quantum Machine Learning: The Next Frontier | Explore the integration of quantum computing principles into machine learning to unlock new capabilities and efficiencies. | [:link:](#) |
 | Integrating AI with Traditional Software Development Lifecycle | A comprehensive guide to seamlessly integrating AI technologies within established software development processes. | [:link:](#) |
+| Running Llama 3 for Document Q&A | A guide to Llama 3 processing. | [:link:](#) |
 
 ---
 
@@ -42,6 +43,11 @@ Explore the following categories to access curated resources, tutorials, and pro
 | Title | Description | Link |
 | --- | --- | --- |
 | Next-Generation Neural Networks: Exploring Capsule Networks | Understand the fundamentals and potential of capsule networks over traditional neural architectures. | [:link:](#) |
+| Guide to Advanced ChatGPT | Let's dive into the APIs, Penalties, Temperature, and more | [:link:](#)
+| Logistic Regression | [:link:](#) |
+| Weighted Averages | [:link:](#) |
+| Annealing in Python | [:link:](#) |
+
 
 ---
 
@@ -56,18 +62,25 @@ Explore the following categories to access curated resources, tutorials, and pro
 ### Computer Vision Techniques and Applications
 | Title | Description | Link |
 | --- | --- | --- |
+| Classifying Images | Examining using computer vision for enhanced real-time applications. | [:link:](#) |
+| Python libraries for Image Augmentation | Let's dive into the tools used for computer vision. | [:link:](#) |
+| PyTorch Ignite Tutorial | Let's learn and play around with PyTorch. | [:link:](#) |
+| Multiclass Image Classification | Transfer learning in image classification | [:link:](#) |
 | Edge Computing and Its Impact on Real-Time Computer Vision Applications | Examining the synergy between edge computing and computer vision for enhanced real-time applications. | [:link:](#) |
+
 
 ---
 
 ### Machine Learning for Predictive Analytics
 | Title | Description | Link |
 | --- | --- | --- |
+| Predictive Analytics for Personalized Marketing: Techniques and Case Studies | Dive into how businesses use predictive analytics to craft personalized marketing strategies that significantly enhance customer engagement. | [:link:](#) |
+| The Future of Retail: Predictive Analytics for Demand Forecasting | How retailers are using predictive analytics to accurately forecast demand, manage inventory, and drive sales. | [:link:](#) |
 
 
 ---
 
-### Data Science for Business Insights
+### Data Science
 | Title | Description | Link |
 | --- | --- | --- |
 | AI and Big Data: Transforming Strategic Decision-Making in Business | How AI and big data converge to enhance decision-making capabilities in business settings. | [:link:](#) |
@@ -120,6 +133,9 @@ Explore the following categories to access curated resources, tutorials, and pro
 | --- | --- | --- |
 | Key Takeaways from the 2024 AI Global Summit | A summary of the most significant insights and trends discussed at the 2024 AI Global Summit. | [:link:](#) |
 | Future Trends in AI: Insights from Industry Leaders | A comprehensive overview of the upcoming trends in AI as predicted by industry experts. | [:link:](#) |
+| Insights from Andrew Ng | Machine learning | [:link:](#) |
+| Insights from Sam Altman | Machine Learning | [:link:](#) |
+| Insights from Ben Nelson | AI and Education from CEO of Minerva Project| [:link:](#) |
 
 ---
 
@@ -128,6 +144,14 @@ Explore the following categories to access curated resources, tutorials, and pro
 | --- | --- | --- |
 | Building a Career in AI: Essential Skills and Pathways | Guide to essential skills and career paths for professionals entering the AI field. | [:link:](#) |
 | Navigating Career Transitions into AI and Machine Learning Roles | Strategies for successfully transitioning into AI and machine learning career roles. | [:link:](#) |
+| The Evolution of Programming Careers in the AI Era | Explore how careers in programming are transforming with the integration of AI technologies and what skills are becoming essential. | [:link:](#) |
+| Data Science Demystified: Essential Skills for Aspiring Data Scientists | Break down the key skills and knowledge areas that are critical for anyone looking to start or advance a career in data science. | [:link:](#) |
+| Mastering the Role of an AI Program Manager | Insights into the unique challenges and opportunities faced by program managers in AI-driven projects, including tips for success. | [:link:](#) |
+| Leadership in Tech: How to Grow from a Developer to a Technical Leader | Guidance on transitioning from hands-on technical work to leadership roles, focusing on skills, mindset, and strategies for effective leadership. | [:link:](#) |
+| Building and Scaling Chatbots: A Career Roadmap | Detailed guidance on building a career in the burgeoning field of chatbots, from design to deployment and beyond. | [:link:](#) |
+| Navigating the Path to Becoming a Chief Data Officer | What it takes to reach the pinnacle of data leadership in an organization, including the skills, experiences, and strategic vision required. | [:link:](#) |
+| Cross-Disciplinary Skills for Programmers: Expanding Your Career Horizons | How learning skills outside of traditional programming can open new career paths and opportunities in tech. | [:link:](#) |
+
 
 ---
 
