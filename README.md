@@ -75,7 +75,8 @@ Explore the following categories to access curated resources, tutorials, and pro
 ### Education and Lifelong Learning
 | Title | Description | Link |
 | --- | --- | --- |
-| MOOCs and Open Education in the Global South: Challenges, Successes, and Opportunities | "Chapter 26 - Imlementing a Skills Accelerator to Prepare Students in Kenya | [:link:] (https://www.amazon.com/gp/product/B07V8JZZ89/ref=dbs_a_def_rwt_bibl_vppi_i2#detailBullets_feature_div)
+| MOOCs and Open Education in the Global South: Challenges, Successes, and Opportunities | "Chapter 26 - Implementing a Skills Accelerator to Prepare Students in Kenya" | [:link:](https://www.amazon.com/gp/product/B07V8JZZ89/ref=dbs_a_def_rwt_bibl_vppi_i2#detailBullets_feature_div)
+
 ---
 
 ### Infrastructure and Deployment
@@ -93,15 +94,14 @@ Explore the following categories to access curated resources, tutorials, and pro
 ### Leadership
 | Title | Description | Link |
 | --- | --- | --- |
-| The Keys to Unlocking Your Professional Potential | Technical skills are secondary compared to four essentials skills to be a professional | [:link:] (https://www.linkedin.com/pulse/keys-unlocking-your-professional-potential-learneredu/?trackingId=24tsiABnWwk%2Bsk%2FIdWh3zQ%3D%3D)
-| Unveiling the Essence of Experience: A Journey Through Knowledge and Wisdom | Technical mastery, strategic vision, and the ability to anticipate technological trends are crucial for shaping and leading successful teams. | [:link:] (https://www.amazon.com/gp/product/B07V8JZZ89/ref=dbs_a_def_rwt_bibl_vppi_i2#detailBullets_feature_div)
+| The Keys to Unlocking Your Professional Potential | Technical skills are secondary compared to four essentials skills to be a professional | [:link:](https://www.linkedin.com/pulse/keys-unlocking-your-professional-potential-learneredu/?trackingId=24tsiABnWwk%2Bsk%2FIdWh3zQ%3D%3D)
+| Unveiling the Essence of Experience: A Journey Through Knowledge and Wisdom | Technical mastery, strategic vision, and the ability to anticipate technological trends are crucial for shaping and leading successful teams. | [:link:](https://www.amazon.com/gp/product/B07V8JZZ89/ref=dbs_a_def_rwt_bibl_vppi_i2#detailBullets_feature_div)
 
 ---
 
 ### Insights from Talks
 | Title | Description | Link |
 | --- | --- | --- |
-
 
 ---
 
