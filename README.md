@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: black;
-            color: lightgrey;
-        }
-        a {
-            color: lightblue;
-        }
-        h1, h2, h3, h4, h5, h6 {
-            color: white;
-        }
-        table {
-            border: 1px solid white;
-        }
-        th, td {
-            border: 1px solid white;
-            padding: 8px;
-        }
-    </style>
-</head>
-<body>
-
 ## 👋 Hello, I'm Joshua Stroup
 
 ## Introduction
@@ -184,6 +157,3 @@ Explore the following categories to access curated resources, tutorials, and pro
 | --- | --- | --- |
 | Case Study: AI-driven Optimization in Logistics and Supply Chain Management | Explore a detailed case study on how AI is optimizing logistics and supply chain operations. |  |
 | Real-World Impact of NLP in Enhancing Customer Service Experiences | Case study on how NLP technologies have transformed customer service interactions. |  |
-
-</body>
-</html>
